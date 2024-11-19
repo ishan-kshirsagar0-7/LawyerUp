@@ -11,8 +11,6 @@
 - **Pinecone Vector Database**: Stores and retrieves Indian legal information with scalability and efficiency.
 - **Google Gemini LLM**: Powers language understanding and response generation, offering robust and flexible performance.
 
-## Architecture
-![image](https://github.com/user-attachments/assets/089f336d-b922-4ee9-ab1d-7d2f3d00bf9d)
 
 ## Sample Outputs
 <table>
@@ -25,6 +23,10 @@
     <td><img src="https://github.com/user-attachments/assets/acd904cf-184a-4f46-99d9-ca640d882d3f" alt="Image 4" style="width: 100%;"/></td>
   </tr>
 </table>
+
+
+## Architecture
+![image](https://github.com/user-attachments/assets/089f336d-b922-4ee9-ab1d-7d2f3d00bf9d)
 
 
 ## Research Paper
