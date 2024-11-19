@@ -15,10 +15,16 @@
 ![image](https://github.com/user-attachments/assets/089f336d-b922-4ee9-ab1d-7d2f3d00bf9d)
 
 ## Sample Outputs
-![image](https://github.com/user-attachments/assets/8e0795f3-4dbe-4f55-80f1-9af6ec24cc07)
-![image](https://github.com/user-attachments/assets/97f10834-e4d8-41c2-830c-1d511e6dcf87)
-![image](https://github.com/user-attachments/assets/668f24b9-ff50-4cd4-a63d-0fb33148eaa6)
-![image](https://github.com/user-attachments/assets/acd904cf-184a-4f46-99d9-ca640d882d3f)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8e0795f3-4dbe-4f55-80f1-9af6ec24cc07" alt="Image 1" style="width: 100%;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/97f10834-e4d8-41c2-830c-1d511e6dcf87" alt="Image 2" style="width: 100%;"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/668f24b9-ff50-4cd4-a63d-0fb33148eaa6" alt="Image 3" style="width: 100%;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/acd904cf-184a-4f46-99d9-ca640d882d3f" alt="Image 4" style="width: 100%;"/></td>
+  </tr>
+</table>
 
 
 ## Research Paper
